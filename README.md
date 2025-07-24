@@ -1,3 +1,7 @@
+# C²hat - Cross-Domain Chat
+
+[<img src=https://raw.githubusercontent.com/pardnchiu/pardnchiu/refs/heads/main/image/available-chrome-web-store-seeklogo.png height=40>](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)
+
 ## End-to-End Encryption Main Flow
 
 ```mermaid
